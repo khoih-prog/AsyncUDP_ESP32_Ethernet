@@ -254,7 +254,7 @@ Look in file [**adc_common.c**](https://github.com/espressif/esp-idf/blob/master
 
 ## HOWTO Setting up the Async UDP Client
 
-https://github.com/khoih-prog/AsyncUDP_ESP32_Ethernet/blob/19682cd09c11db5454001137a3976e63247acdd6/examples/AsyncUdpSendReceive/AsyncUdpSendReceive.ino#L11-L376
+https://github.com/khoih-prog/AsyncUDP_ESP32_Ethernet/blob/c63051fb1e3d898d7f65d328f61846d7c87c361b/examples/AsyncUdpSendReceive/AsyncUdpSendReceive.ino#L11-L376
 
 ---
 ---
@@ -336,7 +336,7 @@ You can change the `INT` pin to another one. Default is `GPIO4`
 
 #### File [AsyncUdpNTPClient.ino](examples/AsyncUdpNTPClient/AsyncUdpNTPClient.ino)
 
-https://github.com/khoih-prog/AsyncUDP_ESP32_Ethernet/blob/19682cd09c11db5454001137a3976e63247acdd6/examples/AsyncUdpNTPClient/AsyncUdpNTPClient.ino#L11-L358
+https://github.com/khoih-prog/AsyncUDP_ESP32_Ethernet/blob/c63051fb1e3d898d7f65d328f61846d7c87c361b/examples/AsyncUdpNTPClient/AsyncUdpNTPClient.ino#L11-L358
 
 ---
 
