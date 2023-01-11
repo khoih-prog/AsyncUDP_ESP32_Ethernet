@@ -82,12 +82,12 @@ to apply the better and faster **asynchronous** feature of the **powerful** [Asy
 - When you send the response, you are **immediately ready** to handle other connections while the server is taking care of sending the response in the background
 - **Speed is OMG**
 - After connecting to a UDP server as an Async Client, you are **immediately ready** to handle other connections while the Client is taking care of receiving the UDP responding packets in the background.
-- You are not required to check in a tight loop() the arrival of the UDP responding packets to process them.
+- You are not required to check in a tight `loop()` for the arrival of the UDP responding packets to process them.
 
 
 #### Currently supported Boards
 
-1. **ESP32-based boards using `LwIP` W5500, W6100 or ENC28J60 Ethernet
+1. **ESP32-based boards using `LwIP` W5500, W6100 or ENC28J60 Ethernet**
 
 
 ---
