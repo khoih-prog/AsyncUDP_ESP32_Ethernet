@@ -9,7 +9,7 @@
  *****************************************************************************************************************************/
 
 #if !( defined(ESP32) )
-  #error This code is designed for (ESP32S2/S3/C3 + LwIP W5500 or ENC28J60) to run on ESP32 platform! Please check your Tools->Board setting.
+  #error This code is designed for (ESP32 + LwIP W5500, W6100 or ENC28J60) to run on ESP32 platform! Please check your Tools->Board setting.
 #endif
 
 #include <Arduino.h>

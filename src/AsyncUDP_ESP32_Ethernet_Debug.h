@@ -11,7 +11,7 @@
 
   Version Modified By   Date      Comments
   ------- -----------  ---------- -----------
-  2.1.0   K Hoang      10/01/2023 Initial coding for ESP32_S2/S3/C3 using LwIP W5500 / W6100 / ENC28J60
+  2.1.0   K Hoang      10/01/2023 Initial coding for ESP32 using LwIP W5500 / W6100 / ENC28J60
  *****************************************************************************************************************************/
 
 #pragma once
